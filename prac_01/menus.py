@@ -1,3 +1,8 @@
+"""
+CP1404/CP5632 - Practical
+menu program
+"""
+
 MENU = """H - Hello
 G - Goodbye
 Q - Quit"""

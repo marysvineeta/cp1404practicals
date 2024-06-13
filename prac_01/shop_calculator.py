@@ -1,3 +1,8 @@
+"""
+CP1404/CP5632 - Practical
+shop calculator program
+"""
+
 number_of_items = int(input("Enter number of items: "))
 while number_of_items < 0:
     print("Invalid number of items!")

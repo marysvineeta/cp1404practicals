@@ -1,3 +1,8 @@
+"""
+CP1404/CP5632 - Practical
+loop program
+"""
+
 print("odd numbers between 1 to 20")
 for i in range(1, 21, 2):
     print(i, end=' ')
