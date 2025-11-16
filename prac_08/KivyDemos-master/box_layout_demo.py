@@ -9,7 +9,6 @@ class BoxLayoutDemo(App):
         return self.root
 
     def handle_greet(self):
-        """Handle pressing the Greet button – update the label using the input text."""
         name = self.root.ids.input_name.text.strip()
         if name:
             self.root.ids.output_label.text = f"Hello {name}"
@@ -17,7 +16,6 @@ class BoxLayoutDemo(App):
             self.root.ids.output_label.text = "Hello"
 
     def handle_clear(self):
-        """Handle pressing the Clear button – reset input and label."""
         self.root.ids.input_name.text = ''
         self.root.ids.output_label.text = ''
 
