@@ -1,6 +1,6 @@
 """
 CP1404/CP5632 Practical
-Kivy GUI program to square a number
+Kivy GUI program to square a numbe
 Lindsay Ward, IT@JCU
 Started 16.11.2025
 """
