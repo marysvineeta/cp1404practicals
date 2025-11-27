@@ -58,4 +58,4 @@ I would introduce slightly more guided examples for complex topics, as some were
 I stayed consistent with completing tasks each week and made an effort to fix errors properly instead of ignoring them. I also improved at structuring my code and following clean coding principles as the semester progressed.
 
 ### What do you still need to improve?
-One major area I need to work on is committing my work more regularly. I often forget or delay commits, which means my version control history is not as consistent as it should be. I need to develop the habit of committing after each milestone instead of leaving it until the end.
+One major area I need to work on is committing my work more regularly. I often forget and delay commits, which means my version control history is not as consistent as it should be. I need to develop the habit of committing after each milestone instead of leaving it until the end.
